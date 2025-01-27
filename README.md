@@ -16,6 +16,6 @@ API & Integrations > Manage API Keys. Once you have this, paste it in the box on
 - `snclip` Sends your current clipboard contents to Supernotes as a new card. Similar to `sncreate` the title will always be "New Clip", but this can be changed in the initial setup, or by modifying the cURL.
 - `snlink` Searches your notes, then creates a deeplink with the card. Helpful if you want to have a reference to a card in a different app. (For example, I use to reference cards in Things)
 
-If anything breaks or you want to get in touch, I'm SideMatter on all socials or you can shoot a email with sidematter@sidematter.dev. Happy note taking!! 
+If anything breaks or you want to get in touch, open a issue and I'll take a look. Happy note taking!! 
 
 
